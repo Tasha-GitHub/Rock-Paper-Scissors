@@ -1,0 +1,42 @@
+.page{
+	background-image: url(http://i.imgur.com/NStBJ.png);
+width: 1335px;
+height:1000px;}
+
+.nav
+{width: 1335px;
+height:50px;}
+
+.container
+{width:1000px;
+height:50px;
+text-align: center;
+vertical-align:middle;
+display: table-cell;
+line-height: 90px;
+}
+
+.txt {
+width:1000px;
+height:100px;
+text-align:center;
+}
+.txt h1{
+    display:inline-block;  
+    margin:10 auto;
+    padding: 50px;
+}
+
+.choice
+{margin-top: -20px;
+width:1000px;
+height:300px;
+text-align: center;}
+
+.choice img {
+float: left;
+width: 100px;
+padding: 100px;
+height:100px;
+
+}
